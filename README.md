@@ -1,6 +1,7 @@
 ### 👋👋👋
 
-## https://ye5ni.tistory.com/
+## https://ye5ni.tistory.com/     <= visit to my tistory:)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fye-Oni)](https://hits.seeyoufarm.com)
 <!--
 **ye-Oni/ye-Oni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
