@@ -1,6 +1,6 @@
 ### 👋👋👋
 
-## https://ye5ni.tistory.com/     #### <= visit to my tistory:)
+## https://ye5ni.tistory.com/ 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fye-Oni)](https://hits.seeyoufarm.com)
 <!--
